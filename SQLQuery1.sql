@@ -1,0 +1,1 @@
+﻿INSERT INTO CompCompanyTb1(CompName) VALUES (nakuru,eldoret)
